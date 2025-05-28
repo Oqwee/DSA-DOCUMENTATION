@@ -8,12 +8,12 @@ This project aims to generate insight into the sales perfomance of the E commerc
 ### DATA SOURCES
 
 ### TOOLS USED
-- MS Excel for Data Wrangling [Download here](https//www.office.com)
+- MS Excel for Data Wrangling [Download here](https://go.microsoft.com/fwlink/?linkid=2264705&clcid=0x409&culture=en-us&country=us))
   - Data Collection
   - Data cleaning
     1. Data Manipulation
     2. Data Munching
 - SQL Server (For Querying and Analysis)
-- Power BI (For Creating Report)
+- Power BI [Download Here]([https://go.microsoft.com/fwlink/?linkid=2264705&clcid=0x409&culture=en-us&country=us](https://go.microsoft.com/fwlink/?LinkId=2240819&clcid=0x409&culture=en-us&country=us))
 - MS Powerpoint (For Presentation)
 - 
