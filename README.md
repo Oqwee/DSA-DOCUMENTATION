@@ -14,7 +14,7 @@ This project aims to generate insight into the sales perfomance of the E commerc
     1. Data Manipulation
     2. Data Munching
 - SQL Server (For Querying and Analysis)
-- Power BI [Download Here]([https://go.microsoft.com/fwlink/?linkid=2264705&clcid=0x409&culture=en-us&country=us)
+- Power BI  [Download Here](https://go.microsoft.com/fwlink/?LinkId=2240819&clcid=0x409&culture=en-us&country=us)
 
 - MS Powerpoint (For Presentation)
 - 
